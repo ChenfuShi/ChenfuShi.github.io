@@ -1,0 +1,11 @@
+[
+# this is comment
+{
+    type:"longrange",
+    url:"https://personalpages.manchester.ac.uk/postgrad/chenfu.shi/NaiveT_27ac_B2_T1.interaction.txt.gz",
+    name:"my track",
+    mode:"arc",
+    colorpositive:"#ff33cc",
+    height:50,
+},
+]
