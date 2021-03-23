@@ -1,7 +1,7 @@
 ---
 title: "Current research"
 weight: 3
-improvecontrast: false
+improvecontrast: True
 ---
 
 ## Current research

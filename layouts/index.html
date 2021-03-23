@@ -9,8 +9,8 @@
    <ul class="navbar-nav ml-auto">
    {{- range $ind, $elem := (sort $sections.Resources ".Params.weight") }}{{- if ne $ind 0 }}
     <li class="nav-item">
-     <a class="nav-link js-scroll-trigger improve-contrast-box" href="#sec-ind-{{ $ind }}">{{- $elem.Params.title -}}</a>
-    </li>
+     <a class="nav-link js-scroll-trigger improve-contrast-box" href="#sec-ind-{{ $ind }}">{{- $elem.Params.title -}}</a> 
+    </li> &nbsp;
    {{- end }}{{ end }}
 
    {{- if isset $.Params "menu" -}}
@@ -28,7 +28,7 @@
 {{ range $ind, $elem := (sort $sections.Resources ".Params.weight") }}
  {{- if eq $ind 0 -}}<header><div id="intro-body">
  {{- else }}<section id="sec-ind-{{ $ind }}" class="section-{{ $ind }} content-section text-center">{{ end }}
- <div class="container"><div class="row"><div class="col-lg-8 mx-auto">
+ <div class="container"><div class="row"><div class="col-lg-9 mx-auto">
   {{- if $elem.Params.improvecontrast }}<div class="improve-contrast-box">{{ end }}
   {{ default "" $elem.Content }}
   {{- if $elem.Params.improvecontrast }}</div>{{ end }}
