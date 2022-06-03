@@ -13,6 +13,6 @@ I did my undergraduate degree at the University of Trento (Italy) in Biomolecula
 
 In my free time I enjoy building and flying planes and drones (possibly 3d printed).
 
-[LinkedIn profile](https://www.linkedin.com/in/chenfu-shi/) &nbsp;&nbsp;&nbsp; [Twitter profile](https://twitter.com/chenfu_shi)
+**[LinkedIn profile](https://www.linkedin.com/in/chenfu-shi/) &nbsp;&nbsp;&nbsp; [Twitter profile](https://twitter.com/chenfu_shi)**
 
 {{< figure src="img/profile_pic.jpg" alt="Profile pic chenfu shi" width=100% >}}
