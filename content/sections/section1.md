@@ -5,7 +5,7 @@ weight: 2
 
 ## About Me
 
-My name is Chenfu and I am a PhD student currently studying at the University of Manchester in the 4yr Wellcome Trust PhD programme in Molecular and Cell Biology. I am currently working in Gisela Orozco's lab and I am co-supervised by Magnus Rattray. 
+My name is Chenfu and I am a PostDoctoral Researchers currently working at the University of Manchester. I am currently working in Gisela Orozco's lab in the Centre for Genetics and Genomics Versus Arthritis.
 
 My work involves analysing large scale biological datasets to improve our understanding of complex autoimmune diseases. I focus on developing pipelines and software to process data and I have particular interest in using neural networks in practical applications.
 
